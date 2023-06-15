@@ -1,0 +1,19 @@
+area,duration,Main tasks,Data requirement,Deliverable
+6-10 ha, 4-6 weeks,"1. Existing Condition Analysis (Landuse, Catchment, Flow network)
+2. Proposed Condition Analysis (Landuse, Catchment, Flow network)
+3. Flow Calculation
+4. Pollution Calculation (Pre and Post)
+5. Solution for treatment facility
+6. Solution for delay facility
+7. Proposed runoff plan
+8. Low point mapping using SCALGO
+9. Flood analysis for 100 years rain using SCALGO  ","1. Detail plan (dwg & pdf)
+2. Project boundary (dwg)
+3. Property boundaries (dwg)
+4. Existing and proposed landuse
+4. Elevation/height model/DEM (if not available, we use SCALGO)
+5. Geo reports (if not availble, we use data from SGU)
+6. Existing stormwater network
+7. Location/area of protected site in project area (if not available, we check in SCALGO)","1. Stormwater investigation report
+2. Stormtac File
+3. All maps and drawing (shp file)"
